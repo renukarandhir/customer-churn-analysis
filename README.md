@@ -15,5 +15,3 @@ This project analyzes customer churn behavior using a telecom dataset to identif
 ## 📈 Model
 Built a classification model with ~80% accuracy to predict churn.
 
-## 📊 Dashboard
-Includes Power BI dashboard showing churn trends and customer segmentation.
