@@ -6,7 +6,6 @@ This project analyzes customer churn behavior using a telecom dataset to identif
 ## 🛠️ Tools Used
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
-- Power BI
 
 ## 🔍 Key Insights
 - Customers with month-to-month contracts have higher churn
